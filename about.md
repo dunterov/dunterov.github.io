@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: / About_me
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Computer enthusiast, work as a software engineer. Interests: networks, cloud technologies, virtualization,
+CI/CD, automatization.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dsunterov@gmail.com](mailto:dsunterov@gmail.com)
