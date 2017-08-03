@@ -20,6 +20,11 @@ Here's an installation's steps:
 
 than all OK. If not - select branch and press "Save"
 * Now go to https://yourusername.github.io
-* That's it! You're UP&Running!
+* That's it! You're UP&Running! `code`
 
 ### Right. So, how to make a post?
+
+```
+code here
+git some
+```
