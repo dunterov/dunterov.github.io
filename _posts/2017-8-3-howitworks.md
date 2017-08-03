@@ -24,7 +24,23 @@ than all OK. If not - select branch and press "Save"
 
 ### Right. So, how to make a post?
 
-```cpp
-code here
-git some
+First step is to clone your new repository:
 ```
+git clone https://github.com/username/username.github.io.git
+cd username.github.io
+```
+Great! Now you can make your first post! Just create new file inside posts folder, just like *YYYY-M-D-filename.md*
+```
+touch posts/2017-8-2-postname.md
+```
+Basically, this file could contain only the following information:
+```
+$ cat posts/2017-8-2-postname.md    <--this is how you may see content of text file
+
+---
+layout: post
+title: Post header, which is visible on a page
+---
+Hello world!
+```
+Easy enough, right? So, now you can go to https://yourusername.github.io/postname and your hello should be there.
