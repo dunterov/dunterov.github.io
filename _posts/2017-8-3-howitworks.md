@@ -9,7 +9,7 @@ Here I want to describe, how that blog works. I've discovered it a couple of day
 First, what is GitHub? GitHub is literally a hub, where you can store your source codes using git. More important is that fact, that github become a powerful portal with rich functionality. One function is "Gitbook Pages". It allows you to publish some info using git and standard markup. So, let's see step-by-step how to make a blog like this! Hope, this post will be useful for someone.
 
 Here's an installation's steps:
-* Sign Up\In on GitHub
+* Sign Up/In on GitHub
 * Go to the [Jekyll-now repository](https://github.com/barryclark/jekyll-now/)
 * Fork it!
 * Rename forked repository just like yourusername.github.io
@@ -35,14 +35,19 @@ touch posts/2017-8-2-postname.md
 ```
 Basically, this file could contain only the following information:
 ```
-$ cat posts/2017-8-2-postname.md    <--this is how you may see content of text file
+$ cat posts/2017-8-2-postname.md   # <--this is how you may see content of text file
 
 ---
 layout: post
 title: Post header, which is visible on a page
 ---
 Hello world!
+
+$ git add posts/2017-8-2-postname.md
+$ git commit -m "Very first post"
+$ git push   
 ```
+After that git ask your username/password pair.
 Easy enough, right? So, now you can go to https://yourusername.github.io/postname and your hello should be there.
 
 ### What's next?
