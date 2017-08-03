@@ -18,7 +18,7 @@ Here's an installation's steps:
   
 > Your GitHub Pages site is currently being built from the master branch.
 
-than all OK.
+than all OK. If not - select branch and press "Save"
 * Now go to https://yourusername.github.io
 * That's it! You're UP&Running!
 
