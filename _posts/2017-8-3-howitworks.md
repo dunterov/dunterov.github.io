@@ -50,4 +50,4 @@ Easy enough, right? So, now you can go to https://yourusername.github.io/postnam
 
 ### What's next?
 
-Well, since now you may do what you want with your blog! Good idea is to add search and comments, tune fonts and colors and many more. But I have to admit, it's pretty clear and convinient, to have you post's base in .md format. Let's see how it'll be in future.
+Well, since now you may do what you want with your blog! Good idea is to add search and comments, tune fonts and colors and many more. But I have to admit, it's pretty clear and convinient, to have post's collection stored in .md format. Let's see how it'll be in the future.
