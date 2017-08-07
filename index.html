@@ -22,7 +22,7 @@ layout: default
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous"> -- Previous </a>
+    <a href="{{ paginator.previous_page_path }}" class="previous">Newest</a>
   {% else %}
     <span class="previous">Newest</span>
   {% endif %}
@@ -30,7 +30,7 @@ layout: default
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Oldest</a>
   {% else %}
-    <span class="next ">Next</span>
+    <span class="next ">Oldest</span>
   {% endif %}
 </div>
 </center>
