@@ -42,15 +42,18 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
+          
+          <form method="get" id="searchform" action="https://encrypted.google.com/search">
+            <div>
+              <input type="hidden" name="as_sitesearch" value="dunterov.github.io" />
+              <input type="text" id="s" name="as_q" value="" />
+              <input type="submit" id="searchsubmit" value="Search..." />
+            </div>
+          </form>
+          
         </footer>
       </div>
-      <form method="get" id="searchform" action="https://encrypted.google.com/search">
-        <div>
-          <input type="hidden" name="as_sitesearch" value="dunterov.github.io" />
-          <input type="text" id="s" name="as_q" value="" />
-          <input type="submit" id="searchsubmit" value="Search..." />
-        </div>
-       </form>
+
     </div>
 
     {% include analytics.html %}
