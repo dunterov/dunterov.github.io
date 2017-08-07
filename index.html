@@ -24,13 +24,13 @@ layout: default
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Newest</a>
   {% else %}
-    <span class="previous">Newest1</span>
+    <span class="hide_it">Newest1</span>
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Oldest1</a>
   {% else %}
-    <span class="next ">Oldest</span>
+    <span class="hide_it">Oldest</span>
   {% endif %}
 </div>
 </center>
