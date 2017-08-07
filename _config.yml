@@ -1,8 +1,8 @@
 #
 # This file contains configuration flags to customize your site
 #
-paginate: 1
-total_pages: 4
+paginate: 7
+total_pages: 1
 # Name of your site (displayed in the header)
 name: D.Unterov
 
