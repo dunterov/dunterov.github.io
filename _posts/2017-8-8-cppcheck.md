@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Code check and html-report with cppcheck.
+date: 2017-08-08 14:00:01 +0300
+categories: tools
 ---
 
 Cppcheck is a static analysis tool for C/C++ code. Project's home on sourceforge: [http://cppcheck.sourceforge.net/](http://cppcheck.sourceforge.net/).
