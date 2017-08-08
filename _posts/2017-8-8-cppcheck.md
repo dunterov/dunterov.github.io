@@ -56,9 +56,12 @@ $ ls
 11.html  14.html  17.html  3.html  6.html  9.html  style.css
 ```
 There is it! Open index.html with your favorite browser and you'll see the beautiful HTML-report with details and links to CWE-base! The results will be as following:
+Index page of HTML-report:
 
-![Cppcheck index](https://github.com/dunterov/dunterov.github.io/raw/master/images/cppcheck1.png "Logo Title Text 1")
+![Cppcheck index](https://github.com/dunterov/dunterov.github.io/raw/master/images/cppcheck1.png "Index page")
 
-![Cppcheck detail](https://github.com/dunterov/dunterov.github.io/raw/master/images/cppcheck1.png "Logo Title Text 2")
+Page with details:
+![Cppcheck detail](https://github.com/dunterov/dunterov.github.io/raw/master/images/cppcheck2.png "Detail page")
+
 
 As a conclusion, I want to say, that cppcheck is a very nice and useful tool. I use it as part of code quality check cycle at work.
