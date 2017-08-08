@@ -11,7 +11,7 @@ Small description from the site:
 
 So let's check some code with cppcheck and generate a html report with [CWE](https://cwe.mitre.org)-links in it.
 
-At first you need to install cppcheck. Official site provides a source-code, but you may installe it wuth your favorite package manager. For example (in fedora 25):
+At first you need to install cppcheck. Official site provides a source-code, but you may install it wuth your favorite package manager. For example (in fedora 25):
 ```
 # dnf install cppcheck
 ```
