@@ -32,7 +32,7 @@ Following the [manual](http://cppcheck.sourceforge.net/manual.pdf), you can tune
 $ cppcheck --enable=all
 ```
 
-### "But it's just ugly text file, what should I post on our internal wiki?"
+## "But it's just ugly text file, what should I post on our internal wiki?"
 
 Calm down! Cppcheck provides an awesome feature, that allows us to generate pretty nice HTML-reports.
 
@@ -56,11 +56,13 @@ $ ls
 11.html  14.html  17.html  3.html  6.html  9.html  style.css
 ```
 There is it! Open index.html with your favorite browser and you'll see the beautiful HTML-report with details and links to CWE-base! The results will be as following:
+
 Index page of HTML-report:
 
 ![Cppcheck index](https://github.com/dunterov/dunterov.github.io/raw/master/images/cppcheck1.png "Index page")
 
 Page with details:
+
 ![Cppcheck detail](https://github.com/dunterov/dunterov.github.io/raw/master/images/cppcheck2.png "Detail page")
 
 
