@@ -32,7 +32,7 @@ Following the [manual](http://cppcheck.sourceforge.net/manual.pdf), you can tune
 $ cppcheck --enable=all
 ```
 
-## "But it's just ugly text file, what should I post on our internal wiki?"
+## "But it's just an ugly text file, what should I post on our internal wiki?"
 
 Calm down! Cppcheck provides an awesome feature, that allows us to generate pretty nice HTML-reports.
 
