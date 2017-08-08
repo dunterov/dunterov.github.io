@@ -18,4 +18,6 @@ List of posts, sorted by category.
 ### Other
 * [Blog on github? What?](https://dunterov.github.io/howitworks/)
 
+### Tools
+* [Code check and html-report with cppcheck.](https://dunterov.github.io/cppcheck/)
 
