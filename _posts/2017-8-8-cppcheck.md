@@ -11,11 +11,11 @@ Small description from the site:
 
 So let's check some code with cppcheck and generate a html report with [CWE](https://cwe.mitre.org)-links in it.
 
-At first you need to install cppcheck. Official site provides a source-code, but you may installed it via you favorite package manager. For example (fedora 25):
+At first you need to install cppcheck. Official site provides a source-code, but you may installe it wuth your favorite package manager. For example (in fedora 25):
 ```
 # dnf install cppcheck
 ```
-Now, let's clone one of the famous project (also known as "A novices' nightmare") - vim
+Now, let's clone one famous project (also known as "A novices' nightmare") - vim
 ```
 $ git clone https://github.com/vim/vim.git
 $ cd vim
@@ -44,12 +44,12 @@ Now run something like this in vim's source directory:
 $ mkdir VIMs_SRC && /path/to/htmlreport/cppcheck-htmlreport --source-dir=. --title=VIMs_SRC --file=report-src.xml --report-dir=VIMs_SRC
 ```
 Let me explain arguments:
-* --source-dir - directory with explored source
-* --title - just title, which will be shown on html page
-* --file - previously generated XML-report
-* --report-dir - where to store HTML-report
+* '--source-dir' - directory with explored source
+* '--title' - just title, which will be shown on html page
+* '--file' - previously generated XML-report
+* '--report-dir' - where to store HTML-report
 
-When it's done, see what is in VIMs_SRC:
+When it's done, see what's in VIMs_SRC:
 ```
 $ cd VIMs_SRC/
 $ ls
