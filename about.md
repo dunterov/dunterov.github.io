@@ -11,5 +11,3 @@ CI/CD, automatization.
 
 [dsunterov@gmail.com](mailto:dsunterov@gmail.com)
 
-
-[<img src="images/fedy.png">]({{ site.baseurl }}/images/fedy.png)
