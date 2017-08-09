@@ -61,11 +61,11 @@ There is it! Open index.html with your favorite browser and you'll see the beaut
 
 Index page of HTML-report:
 
-[<img src="images/cppcheck1.png">]({{ site.baseurl }}/images/cppcheck1.png)
+[<img src="{{ site.baseurl }}/images/cppcheck1.png">]({{ site.baseurl }}/images/cppcheck1.png)
 
 Page with details:
 
-[<img src="images/cppcheck2.png">]({{ site.baseurl }}/images/cppcheck2.png)
+[<img src="{{ site.baseurl }}/images/cppcheck2.png">]({{ site.baseurl }}/images/cppcheck2.png)
 
 
 As a conclusion, I want to say, that cppcheck is a very nice and useful tool. I use it as part of code quality check cycle at work.
