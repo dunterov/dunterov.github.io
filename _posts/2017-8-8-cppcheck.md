@@ -61,11 +61,11 @@ There is it! Open index.html with your favorite browser and you'll see the beaut
 
 Index page of HTML-report:
 
-![Cppcheck index](https://github.com/dunterov/dunterov.github.io/raw/master/images/cppcheck1.png "Index page")
+[<img src="images/cppcheck1.png">]({{ site.baseurl }}/images/cppcheck1.png)
 
 Page with details:
 
-![Cppcheck detail](https://github.com/dunterov/dunterov.github.io/raw/master/images/cppcheck2.png "Detail page")
+[<img src="images/cppcheck2.png">]({{ site.baseurl }}/images/cppcheck2.png)
 
 
 As a conclusion, I want to say, that cppcheck is a very nice and useful tool. I use it as part of code quality check cycle at work.
