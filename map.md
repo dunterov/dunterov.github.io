@@ -20,4 +20,5 @@ List of posts, sorted by category.
 
 ### Tools
 * [Code check and html-report with cppcheck.](https://dunterov.github.io/cppcheck/)
+* [Fedy - make Fedora great again!](https://dunterov.github.io/fedy/)
 
