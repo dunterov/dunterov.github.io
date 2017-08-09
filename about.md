@@ -10,3 +10,6 @@ CI/CD, automatization.
 ### Contact me
 
 [dsunterov@gmail.com](mailto:dsunterov@gmail.com)
+
+
+[<img src={{ site.baseurl }}/images/fedy.png>](http://google.com.au/)
