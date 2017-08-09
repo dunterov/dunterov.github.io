@@ -12,4 +12,4 @@ CI/CD, automatization.
 [dsunterov@gmail.com](mailto:dsunterov@gmail.com)
 
 
-[<img src={{ site.baseurl }}/images/fedy.png>](http://google.com.au/)
+[<img src={{ site.baseurl }}/images/fedy.png>]({{ site.baseurl }}/images/fedy.png)
