@@ -23,3 +23,5 @@ List of posts, sorted by category.
 ### DevOps
 * [Ansible. My own orchestra!](https://dunterov.github.io/ansible1/)
 
+### Linux Tips
+* [Fedora 26 + Broadcom Limited BCM43142 WiFi adapter](https://dunterov.github.io/broadcom/)
