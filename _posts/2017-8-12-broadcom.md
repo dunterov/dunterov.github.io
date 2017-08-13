@@ -26,6 +26,7 @@ $ sudo dnf update
 $ sudo dnf install akmod-wl
 ```
 * Reboot
+
 After reboot your wifi-module will work as expected. Check it:
 ```
 $ lspci -k
