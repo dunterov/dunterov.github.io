@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Telegram bot + bamboo build's status
-date: 2017- 14:00:01 +0300
+date: 2017-09-05 14:00:01 +0300
 categories: CI bamboo linux python
 ---
 
@@ -90,8 +90,11 @@ else:
 As you see, you can easily tune this script for your purposes. Just change the following parts:
 
 `bamboo-in-your-company` - your Bamboo instance's basic URL;
+
 `xxxxxxxxx:yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy` - TG bot's token;
+
 `zzzzzzzzz` - chat id. If you want to receive personal messages, just insert here your TG user_id;
+
 `PROJ-PLAN1` - bamboo plan id. `bambooplans` is a Python tuple, so you can add as many plans as you need, separated with ',' (comma).  
 
 So, example of report is like that:
