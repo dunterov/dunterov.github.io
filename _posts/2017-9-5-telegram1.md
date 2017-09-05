@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Telegram bot + bamboo build's status
+title: Atlassian Bamboo's build's info + Telegram bot
 date: 2017-09-05 14:00:01 +0300
 categories: CI bamboo linux python
 ---
