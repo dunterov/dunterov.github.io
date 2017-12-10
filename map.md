@@ -21,6 +21,7 @@ List of posts, sorted by category.
 * [Ansible. My own orchestra!](https://dunterov.github.io/ansible1/)
 * [Fake JUnit test result for Atlassian Bamboo's plan](https://dunterov.github.io/bamboo1/)
 * [Atlassian Bamboo's build's info + Telegram bot](https://dunterov.github.io/telegram1/)
+* [Install Sonarqube with PostgreSQL](https://dunterov.github.io/sq-psql/)
 
 ### Linux Tips
 * [Fedora 26 + Broadcom Limited BCM43142 WiFi adapter](https://dunterov.github.io/broadcom/)
