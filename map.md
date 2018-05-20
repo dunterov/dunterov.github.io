@@ -25,6 +25,7 @@ List of posts, sorted by category.
 
 ### Linux Tips
 * [Fedora 26 + Broadcom Limited BCM43142 WiFi adapter](https://dunterov.github.io/broadcom/)
+* [How to Limit CPU Frequency on Fedora 28](https://dunterov.github.io/cpu-freq/)
 
 ### Other
 * [Blog on github? What?](https://dunterov.github.io/howitworks/)
