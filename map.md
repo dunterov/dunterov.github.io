@@ -22,6 +22,7 @@ List of posts, sorted by category.
 * [Fake JUnit test result for Atlassian Bamboo's plan](https://dunterov.github.io/bamboo1/)
 * [Atlassian Bamboo's build's info + Telegram bot](https://dunterov.github.io/telegram1/)
 * [Install Sonarqube with PostgreSQL](https://dunterov.github.io/sq-psql/)
+* [Monitor Pantheon Site Usage with Terminus Env Metrics Exporter and Prometheus](https://dunterov.github.io/terminus-metrics/)
 
 ### Linux Tips
 * [Fedora 26 + Broadcom Limited BCM43142 WiFi adapter](https://dunterov.github.io/broadcom/)
