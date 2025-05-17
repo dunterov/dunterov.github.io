@@ -9,6 +9,8 @@ Cppcheck is a static analysis tool for C/C++ code. Project's home on sourceforge
 Small description from the site:
 >Unlike C/C++ compilers and many other analysis tools it does not detect syntax errors in the code. Cppcheck primarily detects the types of bugs that the compilers normally do not detect. The goal is to detect only real errors in the code (i.e. have zero false positives). 
 
+> ⚠️ **Warning**: This article was written some time ago and may no longer be relevant.
+
 So let's check some code with cppcheck and generate a html report with [CWE](https://cwe.mitre.org)-links in it.
 
 At first you need to install cppcheck. Official site provides a source-code, but you may install it wuth your favorite package manager. For example (in fedora 25):
