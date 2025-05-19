@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to start working with OpenAI in Python
-date: 2025-05-18 10:00:01 +0100
+date: 2025-05-06 10:00:01 +0100
 categories: llm openai python
 ---
 
@@ -20,7 +20,7 @@ That's it, we are ready to use the OpenAI API with Python now.
 
 ### Python part
 
-Firt, we need to install the library
+First, we need to install the library:
 
 ```bash
 pip install openai
@@ -43,11 +43,11 @@ response = client.responses.create(
         )
 
 print(f"You have asked: {prompt}")
-print("LLM answer is:")
+print("LLM's answer is:")
 print(response.output_text)
 ```
 
-You won't believe me, but that's it! Now let's run it ans see what'll happen:
+You won't believe me, but that's it! Now let's run it and see what'll happen:
 
 ```bash
 export OPENAI_API_KEY='<YOUR API KEY HERE>'
@@ -58,7 +58,7 @@ The output will be similart to this (depends on the `model` we used for this. In
 
 ```
 You have asked: what does the fox say?
-LLM answer is:
+LLM's answer is:
 "The fox says" is a reference to the viral song "The Fox (What Does the Fox Say?)" by the Norwegian comedy duo Ylvis. In the song, they humorously speculate about the sounds a fox might make, suggesting various funny and nonsensical noises like:
 
 - "Ring-ding-ding-ding-dingeringeding!"
@@ -69,8 +69,8 @@ LLM answer is:
 In reality, foxes make a variety of sounds including barks, screams, howls, and gekkering (a guttural chattering noise), used for communication.
 ```
 
-### What's now?
+### What's next?
 
-Now, knowing this you can start building your own apps and services powered by AI! Also, for some of you it might be interesting to check this my small exampe project - [oa2tg](https://github.com/dunterov/oa2tg). It is a small experimental tool to post AI generated content to the Telegram channel.
+Now, knowing this you can start building your own apps and services powered by AI! Also, for some of you it might be interesting to check this small example project I recently published - [oa2tg](https://github.com/dunterov/oa2tg). It's a small experimental tool to post AI generated content to the Telegram channel.
 
 See ya!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monitor Pantheon Site Usage with Terminus Env Metrics Exporter and Prometheus
+title: Monitor Pantheon site usage with Terminus env metrics exporter and Prometheus
 date: 2025-05-16 10:00:01 +0100
 categories: monitoring prometheus
 ---
