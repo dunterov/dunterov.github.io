@@ -6,7 +6,7 @@ categories: iac terraform
 ---
 
 Hi everyone! If you, like me, work a lot with Terraform (and Infrastructure as Code in general) and GCP, you'll probably find this collection of publicly available modules quite useful. I'm proud to say that I've contributed to many of them.
-In this post, you'll find a collection of links to the modules developed inside the **University of Cambridge** along with a brief description for each module.
+In this post, you'll find a collection of links to the modules developed at the **University of Cambridge** along with a brief description for each module.
 
 ### GCP Cloud Run app
 
