@@ -66,9 +66,13 @@ kubectl apply -f np.yaml -n <your namespace here>
 ```
 
 And that's it! To verify policies are applied you can check they are actually there with
+
 `kubectl get networkpolicy -n <your namespace here>`
+
 or
+
 `kubectl describe networkpolicy deny-egress-all -n <your namespace here>`.
+
 If all applied successfully, you can run interactive shell from inside the pod and try to access the metadata.
 For this you can do something like this. First, prepare environment for the test
 
