@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blocking pod access to metadata in EKS
-date: 2025-05-19 10:00:01 +0100
+date: 2025-05-21 10:00:01 +0100
 categories: aws eks
 ---
 
@@ -65,12 +65,15 @@ The combined effect will do the trick! Now, apply this to the namespace you need
 kubectl apply -f np.yaml -n <your namespace here>
 ```
 
-And that's it! To verify policies are applied you can check they are actually there with `kubectl get networkpolicy -n <your namespace here>` or `kubectl describe networkpolicy deny-egress-all -n <your namespace here>`.
+And that's it! To verify policies are applied you can check they are actually there with
+`kubectl get networkpolicy -n <your namespace here>`
+or
+`kubectl describe networkpolicy deny-egress-all -n <your namespace here>`.
 If all applied successfully, you can run interactive shell from inside the pod and try to access the metadata.
 For this you can do something like this. First, prepare environment for the test
 
 ```bash
-kubectl run -it ubuntu-temp --image=ubuntu --restart=Never -- bash
+kubectl run temp-ubuntu -n <your namespace here> -i --tty --image ubuntu -- bash
 apt update
 apt install curl
 ```
