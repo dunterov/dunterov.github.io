@@ -26,6 +26,9 @@ List of posts, sorted by category.
 * [Monitor Pantheon site usage with Terminus env metrics exporter and Prometheus](https://dunterov.github.io/terminus-metrics/)
 * [Collection of useful Terraform modules for GCP](https://dunterov.github.io/cam-terraform-modules)
 
+### k8s
+* [Blocking pod access to metadata in EKS](https://dunterov.github.io/eks-netpol-metadata/)
+
 ### Linux Tips
 * [Fedora 26 + Broadcom Limited BCM43142 WiFi adapter](https://dunterov.github.io/broadcom/)
 * [How to Limit CPU Frequency on Fedora 28](https://dunterov.github.io/cpu-freq/)
