@@ -5,7 +5,7 @@ date: 2025-06-03 10:00:01 +0100
 categories: terraform gcp
 ---
 
-Starting with Terraform [v1.11](https://www.hashicorp.com/en/blog/terraform-1-11-ephemeral-values-managed-resources-write-only-arguments), we now have a cleaner and more secure way to handle sensitive values — **write-only** arguments. This post walks through a simple example of using that feature with Google Cloud Secret Manager.
+Starting with Terraform [v1.11](https://www.hashicorp.com/en/blog/terraform-1-11-ephemeral-values-managed-resources-write-only-arguments), we now have a cleaner and more secure way to handle sensitive values - **write-only** arguments. This post walks through a simple example of using that feature with Google Cloud Secret Manager.
 
 ### What's the Problem?
 
