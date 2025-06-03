@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Terraform's write-Only arguments with GCP Secret Manager
+title: Using Terraform's write-only arguments with GCP Secret Manager
 date: 2025-06-03 10:00:01 +0100
 categories: terraform gcp
 ---
