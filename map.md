@@ -25,6 +25,7 @@ List of posts, sorted by category.
 * [Install Sonarqube with PostgreSQL](https://dunterov.github.io/sq-psql/)
 * [Monitor Pantheon site usage with Terminus env metrics exporter and Prometheus](https://dunterov.github.io/terminus-metrics/)
 * [Collection of useful Terraform modules for GCP](https://dunterov.github.io/cam-terraform-modules)
+* [Using Terraform's write-Only arguments with GCP Secret Manager](https://dunterov.github.io/terraform-wo)
 
 ### k8s
 * [Blocking pod access to metadata in EKS](https://dunterov.github.io/eks-netpol-metadata/)
