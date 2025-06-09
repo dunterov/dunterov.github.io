@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trick to make Prometheus ignore wrong content-type on metrics endpoint
-date: 2025-06-09 10:00:01 +0100
+date: 2025-06-09 07:00:01 +0100
 categories: prometheus monitoring
 ---
 
