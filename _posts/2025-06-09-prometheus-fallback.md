@@ -5,7 +5,11 @@ date: 2025-06-09 07:00:01 +0100
 categories: prometheus monitoring
 ---
 
-One day, I had to integrate a third-party metrics exporter into our monitoring stack (a pretty standard setup with Prometheus, Alertmanager, and Grafana). The exporter exposed a metrics endpoint that, when opened in a browser, simply displayed a list of metrics. However, when I added it to the Prometheus config as a new target, Prometheus broke with the `err: received unsupported Content-Type "application/json"`. In this post, I'll explain why that happened and how I fixed it. Hopefully, this will be useful to someone out there.
+One day, I had to integrate a third-party metrics exporter into our monitoring stack (a pretty standard setup with Prometheus, Alertmanager, and Grafana). The exporter exposed a metrics endpoint that, when opened in a browser, simply displayed a list of metrics. However, when I added it to the Prometheus config as a new target, Prometheus broke with the
+```
+err: received unsupported Content-Type "application/json"
+```
+In this post, I'll explain why that happened and how I fixed it. Hopefully, this will be useful to someone out there.
 
 ### What happened?
 
