@@ -6,8 +6,7 @@ categories: monitoring prometheus
 ---
 
 Hi Internet! I recently built a small utility to scratch my own itch, and I thought it might be useful to others too.
-
-Meet [Terminus Env Metrics Exporter](https://github.com/dunterov/terminus-env-metrics-exporter) — a lightweight, open-source Prometheus exporter that pulls environment-level metrics from Pantheon sites using Terminus and makes them available for monitoring. Give it a look!
+Meet [Terminus Env Metrics Exporter](https://github.com/dunterov/terminus-env-metrics-exporter) - a lightweight, open-source Prometheus exporter that pulls environment-level metrics from Pantheon sites using Terminus and makes them available for monitoring. Give it a look!
 
 ### What Is It?
 
