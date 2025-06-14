@@ -8,6 +8,7 @@ List of posts, sorted by category.
 
 ### Scripting/Python
 
+* [Pre-commit hook for filename consistency](https://dunterov.github.io/pre-commit-preffix-check/)
 * [Python3, ssh and redirect stdout?](https://dunterov.github.io/python1/)
 * [Run commands from a list and check exit codes with python 3](https://dunterov.github.io/python2/)
 * [How to start working with OpenAI in Python](https://dunterov.github.io/openai-python/)
