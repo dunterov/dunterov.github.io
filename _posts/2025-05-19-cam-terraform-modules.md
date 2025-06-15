@@ -14,7 +14,7 @@ In this post, you'll find a collection of links to the modules developed at the 
 
 **What is this**: This module manages the deployment of containerised applications on Cloud Run.
 
-**Quick example** (check the project for more):
+**Example** (check the project for more):
 
 ```
 module "webapp" {
@@ -38,7 +38,7 @@ module "webapp" {
 
 **What is this**: This module provisions basic monitoring for a website.
 
-**Quick example** (check the project for more):
+**Example** (check the project for more):
 
 ```
 module "monitoring" {
@@ -57,7 +57,7 @@ module "monitoring" {
 **What is this**: This module will create a Google Secret Manager secret and associated secret version with a passed
 content.
 
-**Quich example** (check the project for more):
+**Example** (check the project for more):
 
 ```
 module "secret" {
