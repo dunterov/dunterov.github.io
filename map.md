@@ -26,14 +26,14 @@ List of posts, sorted by category.
 ### Linux Tips
 
 * [Fedora 26 + Broadcom Limited BCM43142 WiFi adapter](https://dunterov.github.io/broadcom/)
-* [How to Limit CPU Frequency on Fedora 28](https://dunterov.github.io/cpu-freq/)
-* [Fedy - make Fedora great again!](https://dunterov.github.io/fedy/)
+* [How to Limit CPU Frequency on Fedora](https://dunterov.github.io/cpu-freq/)
+* [Fedy - must have for Fedora!](https://dunterov.github.io/fedy/)
 
 ### Scripting/Python
 
 * [Pre-commit hook for filename consistency](https://dunterov.github.io/pre-commit-preffix-check/)
 * [Python3, ssh and redirect stdout?](https://dunterov.github.io/python1/)
-* [Run commands from a list and check exit codes with python 3](https://dunterov.github.io/python2/)
+* [Run shell commands from a list and check exit codes with python](https://dunterov.github.io/python2/)
 * [How to start working with OpenAI in Python](https://dunterov.github.io/openai-python/)
 * [Atlassian Bamboo's build's info + Telegram bot](https://dunterov.github.io/telegram1/)
 
