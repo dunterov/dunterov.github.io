@@ -55,7 +55,7 @@ Each page contains a simple Confluence table listing key attributes like identif
 
 Since this is Confluence, you can easily sort the table by any column using the table headers.
 
-## Quick Start
+## Quick start
 
 Before you begin, make sure you have:
 
@@ -107,7 +107,7 @@ docker run --rm -v `pwd`/resources.csv:/resources.csv aws-csv-to-confluence \
 
 For more details, check out the [README](https://github.com/dunterov/aws-csv-to-confluence/blob/main/README.md).
 
-## Final Thoughts
+## Final thoughts
 
 This tool is a classic "scratch-my-own-itch" project. It saved me time - and hopefully, it'll do the same for you or your team.  
 In my setup, I've built some automation around it, so every week I get a fresh, clean AWS inventory right inside Confluence.
