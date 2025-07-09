@@ -13,11 +13,12 @@ List of posts, sorted by category.
 ### DevOps
 
 * [Ansible. My own orchestra!](https://dunterov.github.io/ansible1/)
-* [Fake JUnit test result for Atlassian Bamboo's plan](https://dunterov.github.io/bamboo1/)
-* [Monitor Pantheon site usage with Terminus env metrics exporter and Prometheus](https://dunterov.github.io/terminus-metrics/)
 * [Collection of useful Terraform modules for GCP](https://dunterov.github.io/cam-terraform-modules)
-* [Using Terraform's write-only arguments with GCP Secret Manager](https://dunterov.github.io/terraform-wo)
-* [Trick to make Prometheus ignore wrong content-type on metrics endpoint](https://dunterov.github.io/prometheus-fallback)
+* [Fake JUnit test result for Atlassian Bamboo's plan](https://dunterov.github.io/bamboo1/)
+* [Generating confluence pages from AWS Tag Editor CSVs](https://dunterov.github.io/prometheus-fallback/aws-tags-to-confluence/)
+* [Monitor Pantheon site usage with Terminus env metrics exporter and Prometheus](https://dunterov.github.io/terminus-metrics/)
+* [Trick to make Prometheus ignore wrong content-type on metrics endpoint](https://dunterov.github.io/prometheus-fallback/)
+* [Using Terraform's write-only arguments with GCP Secret Manager](https://dunterov.github.io/terraform-wo/)
 
 ### K8s
 
@@ -26,16 +27,16 @@ List of posts, sorted by category.
 ### Linux Tips
 
 * [Fedora 26 + Broadcom Limited BCM43142 WiFi adapter](https://dunterov.github.io/broadcom/)
-* [How to Limit CPU Frequency on Fedora](https://dunterov.github.io/cpu-freq/)
 * [Fedy - must have for Fedora!](https://dunterov.github.io/fedy/)
+* [How to Limit CPU Frequency on Fedora](https://dunterov.github.io/cpu-freq/)
 
 ### Scripting/Python
 
+* [Atlassian Bamboo's build's info + Telegram bot](https://dunterov.github.io/telegram1/)
+* [How to start working with OpenAI in Python](https://dunterov.github.io/openai-python/)
 * [Pre-commit hook for filename consistency](https://dunterov.github.io/pre-commit-preffix-check/)
 * [Python3, ssh and redirect stdout?](https://dunterov.github.io/python1/)
 * [Run shell commands from a list and check exit codes with python](https://dunterov.github.io/python2/)
-* [How to start working with OpenAI in Python](https://dunterov.github.io/openai-python/)
-* [Atlassian Bamboo's build's info + Telegram bot](https://dunterov.github.io/telegram1/)
 
 ### Tools
 
