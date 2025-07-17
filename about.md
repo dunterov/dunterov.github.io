@@ -12,6 +12,10 @@ This blog is where I (occasionally) share things I've learned, built, or broken 
 
 Why do I write? It's my small way of giving back - contributing to the tech community, open source, and the shared pool of knowledge on the internet.
 
+### Public speaking & events
+
+I'm open to speaking at meetups, conferences, and other tech events.
+If you'd like me to speak at yours, feel free to reach out through the contact options below.
 
 ### Contact me
 
