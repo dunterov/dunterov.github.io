@@ -16,6 +16,7 @@ List of posts, sorted by category.
 * [Collection of useful Terraform modules for GCP](https://dunterov.github.io/cam-terraform-modules)
 * [Fake JUnit test result for Atlassian Bamboo's plan](https://dunterov.github.io/bamboo1/)
 * [Generating confluence pages from AWS Tag Editor CSVs](https://dunterov.github.io/prometheus-fallback/aws-tags-to-confluence/)
+* [How to send alerts from Alertmanager to MS Teams](https://dunterov.github.io/alertmanager-teams/)
 * [Monitor Pantheon site usage with Terminus env metrics exporter and Prometheus](https://dunterov.github.io/terminus-metrics/)
 * [Trick to make Prometheus ignore wrong content-type on metrics endpoint](https://dunterov.github.io/prometheus-fallback/)
 * [Using Terraform's write-only arguments with GCP Secret Manager](https://dunterov.github.io/terraform-wo/)
