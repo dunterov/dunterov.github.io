@@ -30,6 +30,7 @@ List of posts, sorted by category.
 * [Fedora 26 + Broadcom Limited BCM43142 WiFi adapter](https://dunterov.github.io/broadcom/)
 * [Fedy - must have for Fedora!](https://dunterov.github.io/fedy/)
 * [How to Limit CPU Frequency on Fedora](https://dunterov.github.io/cpu-freq/)
+* [Tricking a shell script to show tar progress in GitLab jobs](https://dunterov.github.io/tar-trick/)
 
 ### Scripting/Python
 
