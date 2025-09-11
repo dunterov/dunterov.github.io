@@ -14,6 +14,7 @@ List of posts, sorted by category.
 
 * [Ansible. My own orchestra!](https://dunterov.github.io/ansible1/)
 * [Collection of useful Terraform modules for GCP](https://dunterov.github.io/cam-terraform-modules)
+* [Extending Terraform with GraphQL for managing GitLab resources](https://dunterov.github.io/graphql-terraform/)
 * [Fake JUnit test result for Atlassian Bamboo's plan](https://dunterov.github.io/bamboo1/)
 * [Generating confluence pages from AWS Tag Editor CSVs](https://dunterov.github.io/prometheus-fallback/aws-tags-to-confluence/)
 * [How to send alerts from Alertmanager to MS Teams](https://dunterov.github.io/alertmanager-teams/)
