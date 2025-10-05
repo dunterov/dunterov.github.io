@@ -25,6 +25,7 @@ List of posts, sorted by category.
 ### K8s
 
 * [Blocking pod access to metadata in EKS](https://dunterov.github.io/eks-netpol-metadata/)
+* [Blocking requests at the edge with NGINX Ingress and Lua](https://dunterov.github.io/nginx-ingress-lua/)
 
 ### Linux Tips
 
