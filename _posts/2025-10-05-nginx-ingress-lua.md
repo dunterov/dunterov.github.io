@@ -47,16 +47,17 @@ Each example uses a simple `access_by_lua_block` within the Ingress annotation t
 
 To run these examples, make sure your NGINX Ingress Controller is configured to allow Lua snippets:
 
-1. **Install the official NGINX Ingress Controller**  
-   https://github.com/kubernetes/ingress-nginx
+1. Install the official NGINX Ingress Controller - https://github.com/kubernetes/ingress-nginx
 
-2. **Enable snippet annotations** (Helm option):  
+2. Enable snippet annotations (Helm option):  
+
    ```bash
    helm upgrade --install ingress-nginx ingress-nginx/ingress-nginx \
       --set controller.allowSnippetAnnotations=true
    ```
 
-3. **Allow Lua directives** in your ConfigMap:  
+3. Allow Lua directives in your ConfigMap:  
+
    Make sure `annotation-value-word-blocklist` does **not** contain `_by_lua` directives. Example allowed config snippet:
 
    ```yaml
